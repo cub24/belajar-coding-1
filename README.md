@@ -1,2 +1,2 @@
-# belajar-coding-1
+# cub24.github.io
 Belajar coding dengan coursera
